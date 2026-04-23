@@ -1,3 +1,5 @@
-<div class="osuny-reading-progress">
-  <div class="osuny-reading-progress__bar"></div>
-</div>
+{{ if or (eq .Kind "page") (and (eq .Type "pages") (not .IsHome)) }}
+  <div class="osuny-reading-progress">
+    <div class="osuny-reading-progress__bar"></div>
+  </div>
+{{ end }}
