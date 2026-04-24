@@ -1,4 +1,4 @@
-# Osuny Masonry
+# Osuny plugin : reading progress 
 
 ## Installation
 
