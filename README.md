@@ -42,5 +42,5 @@ Dans `assets/sass/main.sass` :
 
 ### Exemples
 
-- https://www.encommuns.net/articles/2026-04-20-laffaire-de-tous-la-part-de-total/
-- https://example.osuny.org/
+- [https://www.encommuns.net/articles/2026-04-20-laffaire-de-tous-la-part-de-total/](https://www.encommuns.net/articles/2026-04-20-laffaire-de-tous-la-part-de-total/)
+- [https://example.osuny.org/](https://example.osuny.org/fr/actualites/2023-03-04-referentiel-general-decoconception-de-services-numeriques-rgesn/)
