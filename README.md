@@ -33,3 +33,14 @@ Dans `assets/sass/main.sass` :
 @import "_theme/hugo-osuny"
 @import "osuny-plugin-reading-progress"
 ```
+
+### Configurer la couleur 
+
+```css
+--osuny-reading-progress-bar-color: var(--color-accent)
+```
+
+### Exemples
+
+- https://www.encommuns.net/articles/2026-04-20-laffaire-de-tous-la-part-de-total/
+- https://example.osuny.org/
